@@ -1,0 +1,28 @@
+h1{
+   color:blue;
+}
+body{
+     background-color:pink;
+}
+button{
+       color:Crimson;
+}
+button{
+       background-color:orange;
+}
+table{
+      border-color:gold;
+}
+p{
+font-size: xl-large;
+font-family:Bell MT;
+color:green;
+}
+img.img-peque{
+width:150px;
+height:145px;
+}
+p.parrafito{
+font-size:xl-large;
+font-family:Arial;
+color:gold;
