@@ -26,7 +26,8 @@ p.parrafito{
 font-size:xl-large;
 font-family:Arial;
 color:gold;
-img-peque2{
+}
+img.img-peque2{
 border-radius:100px;
 width:260px;
 height:200px;
