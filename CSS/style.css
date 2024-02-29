@@ -182,7 +182,36 @@ height:350px;
   margin-right: auto;
 
 }
-    
+aside{width:40%;
+padding-left: 0.5rem;
+margin-left: 0.5rem;
+float: right;
+box-shadow: inset 5px 0 5px -5px #29627e;
+font-style:italic ;
+color:#29627e}
+
+div.divisioncita{
+	border: 11px groove rgba(0, 195, 255, 0.603);
+	padding-top: 0.5px;
+    padding-right:10px ;
+	padding-bottom:0.5px;
+	padding-left: 10px;
+	margin-top:10px ;
+	margin-right: 50px;
+	margin-bottom:10px ;
+	margin-left: 50px ;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri,;
+	background-color: rgb(206, 218, 210);
+	text-align: justify;
+	}
+div.divisioncita2{
+	border:20px groove red ;
+	padding: 35px 350px 35px 350px ;
+	margin: 50px 250px 50px 250px;
+
+
+
+}
 
 
 
