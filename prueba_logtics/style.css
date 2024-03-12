@@ -3,7 +3,7 @@ div {
 }
 
 body {
-    background-color: #aafafa;
+    background-color:white;
     margin: 0;
 }
 
@@ -165,20 +165,18 @@ h1 {
     margin: 1rem 0;
 }
 
-.button2 {
-    
-}
+
 
 .btncrear {
+    color:white;
     background-color: transparent;
     border: 2px solid #ffffff;
     margin-top: 1rem;
     border-radius: 6px;
-    text:white
 }
 
 .button2:hover {
-    box-shadow: 0 0 10px #9d9e9e;
+    box-shadow: 0 0 10px white;
 }
 
 .carousel-inner {
